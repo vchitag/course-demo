@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CourseDemoApplication {
 
-	//Example file
+	//Example file1
 	public static void main(String[] args) {
 		SpringApplication.run(CourseDemoApplication.class, args);
 	}
